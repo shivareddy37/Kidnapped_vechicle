@@ -1,6 +1,6 @@
 # Kidnapped_vechicle
 
-This project is part of the udacity Localization module.
+The project is done as part of Udacity self Driving Car Nano Degree Program.
 
 In this project is simulate the robot localizating itself in a known map with state variables error less than 0.1m in xand y and avg yaw error less than 0.003m.
 
